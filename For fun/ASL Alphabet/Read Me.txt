@@ -1,0 +1,9 @@
+https://www.kaggle.com/grassknoted/asl-alphabet
+
+- What is:
+
+keras
+cv2
+pathlib
+itertools
+skimage
